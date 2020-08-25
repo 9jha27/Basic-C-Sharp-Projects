@@ -1,0 +1,7 @@
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\MathOperations\MathOperations\bin\Debug\MathOperations.exe.config
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\MathOperations\MathOperations\bin\Debug\MathOperations.exe
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\MathOperations\MathOperations\bin\Debug\MathOperations.pdb
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\MathOperations\MathOperations\obj\Debug\MathOperations.csprojAssemblyReference.cache
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\MathOperations\MathOperations\obj\Debug\MathOperations.csproj.CoreCompileInputs.cache
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\MathOperations\MathOperations\obj\Debug\MathOperations.exe
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\MathOperations\MathOperations\obj\Debug\MathOperations.pdb

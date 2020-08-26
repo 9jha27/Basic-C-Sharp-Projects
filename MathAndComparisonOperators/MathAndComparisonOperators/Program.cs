@@ -14,29 +14,28 @@ namespace MathAndComparisonOperators
 
             Console.WriteLine("Person 1");
             Console.WriteLine("What is your hourly rate?");
-            string hourlyRate = Console.ReadLine();
-            int rate = Convert.ToInt32(hourlyRate);
+            int rate = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine("How many hours do you work per week?");
-            string hoursPerWeek = Console.ReadLine();
-            int hrWeek = Convert.ToInt32(hoursPerWeek);
+            int hrsPerWeek = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine("Person 2");
             Console.WriteLine("What is your hourly rate?");
-            string hourlyRate2 = Console.ReadLine();
-            int rate2 = Convert.ToInt32(hourlyRate2);
+            int rate2 = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine("How many hours do you work per week?");
-            string hoursPerWeek2 = Console.ReadLine();
-            int hrWeek2 = Convert.ToInt32(hoursPerWeek2);
+            int hrsPerWeek2 = Convert.ToInt32(Console.ReadLine());
+
+            int salary1 = rate * hrsPerWeek * 52;
+            int salary2 = rate2 * hrsPerWeek2 * 52;
             Console.WriteLine("Annual salary of Person 1: " +
-                "31,200");
+                salary1);
 
             Console.WriteLine("Annual salary of Person 2: " +
-                "41,600");
+                salary2);
 
             Console.WriteLine("Does Person 1 make more money than Person 2?");
-            bool compare = 31200 > 41600;
+            bool compare = salary1 > salary2;
             Console.WriteLine(compare);
             Console.ReadLine();
 

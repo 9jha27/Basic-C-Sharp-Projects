@@ -10,43 +10,37 @@ namespace MathAndComparisonOperators
     {
         static void Main(string[] args)
         {
-            //int total = 5 + 10;
-            //int otherTotal = 12 + 22;
-            //int combined = total + otherTotal;
-            //Console.WriteLine(combined);
-            //Console.ReadLine();
+            Console.WriteLine("Anonymous Income Comparison Program");
 
-            //int difference = 10-5;
-            //Console.WriteLine("Ten minus Five = " + difference.ToString());
-            //Console.ReadLine();
+            Console.WriteLine("Person 1");
+            Console.WriteLine("What is your hourly rate?");
+            string hourlyRate = Console.ReadLine();
+            int rate = Convert.ToInt32(hourlyRate);
 
-            //int product = 10 * 5;
-            //Console.WriteLine(product);
-            //Console.ReadLine();
+            Console.WriteLine("How many hours do you work per week?");
+            string hoursPerWeek = Console.ReadLine();
+            int hrWeek = Convert.ToInt32(hoursPerWeek);
 
-            //double quotient = 100.0 / 17.0;
-            //Console.WriteLine(quotient);
-            //Console.ReadLine();
+            Console.WriteLine("Person 2");
+            Console.WriteLine("What is your hourly rate?");
+            string hourlyRate2 = Console.ReadLine();
+            int rate2 = Convert.ToInt32(hourlyRate2);
 
-            //int remainder = 3 % 2;
-            //Console.WriteLine(remainder);
-            //Console.ReadLine();
+            Console.WriteLine("How many hours do you work per week?");
+            string hoursPerWeek2 = Console.ReadLine();
+            int hrWeek2 = Convert.ToInt32(hoursPerWeek2);
+            Console.WriteLine("Annual salary of Person 1: " +
+                "31,200");
 
-            //int num1 = 200 / 3;
-            //Console.WriteLine(num1);
-            //Console.ReadLine();
+            Console.WriteLine("Annual salary of Person 2: " +
+                "41,600");
 
-            //bool trueOrFalse = 12 < 5;
-            //Console.WriteLine(trueOrFalse.ToString());
-            //Console.ReadLine();
-
-            int roomTemperature = 70;
-            int currentTemperature = 70;
-
-            //bool isWarm = currentTemperature >= roomTemperature;
-            bool isWarm = currentTemperature != roomTemperature;
-            Console.WriteLine(isWarm.ToString());
+            Console.WriteLine("Does Person 1 make more money than Person 2?");
+            bool compare = 31200 > 41600;
+            Console.WriteLine(compare);
             Console.ReadLine();
+
+
         }
     }
 }

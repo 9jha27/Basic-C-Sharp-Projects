@@ -40,7 +40,7 @@ namespace ConsoleAppAssignment
                 }
             }
             while (!answer);
-            Console.ReadLine();
+            
 
 
             Console.WriteLine("How many toppings of pizza would you like?");
@@ -69,10 +69,9 @@ namespace ConsoleAppAssignment
                         Console.WriteLine("Woah! I'm totally judging the number of toppings you want on your pizza!");
                         break;
                 }
-                Console.ReadLine();
+                Console.Read();
                 System.Environment.Exit(1);
             }
-
         }
     }
 }

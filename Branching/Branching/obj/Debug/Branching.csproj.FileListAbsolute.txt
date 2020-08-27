@@ -1,0 +1,7 @@
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\Branching\Branching\bin\Debug\Branching.exe.config
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\Branching\Branching\bin\Debug\Branching.exe
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\Branching\Branching\bin\Debug\Branching.pdb
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\Branching\Branching\obj\Debug\Branching.csprojAssemblyReference.cache
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\Branching\Branching\obj\Debug\Branching.csproj.CoreCompileInputs.cache
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\Branching\Branching\obj\Debug\Branching.exe
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\Branching\Branching\obj\Debug\Branching.pdb

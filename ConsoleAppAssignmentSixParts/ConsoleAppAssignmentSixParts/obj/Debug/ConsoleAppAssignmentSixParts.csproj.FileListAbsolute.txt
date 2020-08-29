@@ -1,0 +1,7 @@
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\ConsoleAppAssignmentSixParts\ConsoleAppAssignmentSixParts\bin\Debug\ConsoleAppAssignmentSixParts.exe.config
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\ConsoleAppAssignmentSixParts\ConsoleAppAssignmentSixParts\bin\Debug\ConsoleAppAssignmentSixParts.exe
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\ConsoleAppAssignmentSixParts\ConsoleAppAssignmentSixParts\bin\Debug\ConsoleAppAssignmentSixParts.pdb
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\ConsoleAppAssignmentSixParts\ConsoleAppAssignmentSixParts\obj\Debug\ConsoleAppAssignmentSixParts.csproj.CoreCompileInputs.cache
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\ConsoleAppAssignmentSixParts\ConsoleAppAssignmentSixParts\obj\Debug\ConsoleAppAssignmentSixParts.exe
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\ConsoleAppAssignmentSixParts\ConsoleAppAssignmentSixParts\obj\Debug\ConsoleAppAssignmentSixParts.pdb
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\ConsoleAppAssignmentSixParts\ConsoleAppAssignmentSixParts\obj\Debug\ConsoleAppAssignmentSixParts.csprojAssemblyReference.cache

@@ -113,26 +113,24 @@ namespace ConsoleAppAssignmentSixParts
 
             //PART 6: Create a list that has at least two identical strings in the list
             List<string> letters = new List<string>() { "A", "B", "D", "C", "B", "Z", "N", "A"};
-            List<string> sortedList = new List<string>();
+            List<string> backupList = new List<string>();
 
 
             foreach (string letter in letters)
             {
-                letters.Sort();
-                int letterIndex = letters.IndexOf(letter);
-                Console.WriteLine(letterIndex);
-                if ((letterIndex) >=0 && (letter == (letters[letterIndex])))
+                Console.WriteLine(letter + " is in our list.");
+                foreach (string letter2 in backupList)//add code to tell the user that the text isn't in the list
                 {
-                    Console.WriteLine(letter);
+                    if (letter == letter2)
+                    {
+                        Console.WriteLine("The letter " + letter + " has occurred before in the list");
+                    }
                 }
-                else
-                { 
-                    Console.WriteLine(letter + " is a letter on this list."); 
-                }
+                backupList.Add(letter);
             }
 
             Console.ReadLine();
-            //add code to tell the user that the text isn't in the list
+            
         }
     }
 }

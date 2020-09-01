@@ -1,0 +1,7 @@
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\Step219ClassAndMethods\Step219ClassAndMethods\bin\Debug\Step219ClassAndMethods.exe.config
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\Step219ClassAndMethods\Step219ClassAndMethods\bin\Debug\Step219ClassAndMethods.exe
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\Step219ClassAndMethods\Step219ClassAndMethods\bin\Debug\Step219ClassAndMethods.pdb
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\Step219ClassAndMethods\Step219ClassAndMethods\obj\Debug\Step219ClassAndMethods.csprojAssemblyReference.cache
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\Step219ClassAndMethods\Step219ClassAndMethods\obj\Debug\Step219ClassAndMethods.csproj.CoreCompileInputs.cache
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\Step219ClassAndMethods\Step219ClassAndMethods\obj\Debug\Step219ClassAndMethods.exe
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\Step219ClassAndMethods\Step219ClassAndMethods\obj\Debug\Step219ClassAndMethods.pdb

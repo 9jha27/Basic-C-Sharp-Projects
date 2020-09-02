@@ -23,7 +23,7 @@ namespace Step219ClassAndMethods
             decimal input2 = Convert.ToDecimal(Console.ReadLine());
 
             MathOperation mathop2 = new MathOperation();
-            int output2 = mathop.MathOperator(input2);
+            int output2 = mathop2.MathOperator(input2);
             Console.WriteLine("Your number multiplied by ten is: " + output2);
             Console.ReadLine();
 

@@ -1,0 +1,7 @@
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\Step220ClassAndMethodsAssignment\Step220ClassAndMethodsAssignment\bin\Debug\Step220ClassAndMethodsAssignment.exe.config
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\Step220ClassAndMethodsAssignment\Step220ClassAndMethodsAssignment\bin\Debug\Step220ClassAndMethodsAssignment.exe
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\Step220ClassAndMethodsAssignment\Step220ClassAndMethodsAssignment\bin\Debug\Step220ClassAndMethodsAssignment.pdb
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\Step220ClassAndMethodsAssignment\Step220ClassAndMethodsAssignment\obj\Debug\Step220ClassAndMethodsAssignment.csprojAssemblyReference.cache
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\Step220ClassAndMethodsAssignment\Step220ClassAndMethodsAssignment\obj\Debug\Step220ClassAndMethodsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\Step220ClassAndMethodsAssignment\Step220ClassAndMethodsAssignment\obj\Debug\Step220ClassAndMethodsAssignment.exe
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\Step220ClassAndMethodsAssignment\Step220ClassAndMethodsAssignment\obj\Debug\Step220ClassAndMethodsAssignment.pdb

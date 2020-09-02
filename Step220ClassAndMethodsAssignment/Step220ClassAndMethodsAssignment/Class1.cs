@@ -10,7 +10,7 @@ namespace Step220ClassAndMethodsAssignment
     public class MathOperation
     {
 
-        public static int MathOperator(int num, int num2 = 0)
+        public static int MathOperator(int num, int num2 = 2) //second parameter is optional
         {
             return num + num2;
         }

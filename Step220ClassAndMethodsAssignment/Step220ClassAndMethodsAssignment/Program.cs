@@ -14,10 +14,18 @@ namespace Step220ClassAndMethodsAssignment
             Console.WriteLine("Pick your first number.");
             int input1 = Convert.ToInt32(Console.ReadLine());
 
-            /*Console.WriteLine("Pick a second number if you wish.");
-            string input2 = Console.ReadLine();*/
-
-            Console.WriteLine(MathOperation.MathOperator(input1));
+            Console.WriteLine("Pick a second number if you wish. This is not required.");
+            string userInput2 =  Console.ReadLine();
+            
+            if(string.IsNullOrEmpty(userInput2))
+            {
+                Console.WriteLine(MathOperation.MathOperator(input1));
+            }
+            else
+            {
+                int input2 = Convert.ToInt32(userInput2);
+                Console.WriteLine(MathOperation.MathOperator(input1, input2));
+            }
 
             Console.ReadLine();
         }

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7FCF6BD3-B3F3-454E-A86B-DB29D8E79403}</ProjectGuid>
+    <ProjectGuid>{CF9073D0-FFD2-4967-AFB9-3718B60C46D5}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Step221ClassAndMethodsAssignment</RootNamespace>
-    <AssemblyName>Step221ClassAndMethodsAssignment</AssemblyName>
+    <RootNamespace>Step221ClassAndMethod</RootNamespace>
+    <AssemblyName>Step221ClassAndMethod</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="MathOperation.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

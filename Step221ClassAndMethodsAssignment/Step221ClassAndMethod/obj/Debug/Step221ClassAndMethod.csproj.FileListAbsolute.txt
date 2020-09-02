@@ -1,0 +1,7 @@
+C:\Users\Jina\source\repos\Step221ClassAndMethod\Step221ClassAndMethod\bin\Debug\Step221ClassAndMethod.exe.config
+C:\Users\Jina\source\repos\Step221ClassAndMethod\Step221ClassAndMethod\bin\Debug\Step221ClassAndMethod.exe
+C:\Users\Jina\source\repos\Step221ClassAndMethod\Step221ClassAndMethod\bin\Debug\Step221ClassAndMethod.pdb
+C:\Users\Jina\source\repos\Step221ClassAndMethod\Step221ClassAndMethod\obj\Debug\Step221ClassAndMethod.csprojAssemblyReference.cache
+C:\Users\Jina\source\repos\Step221ClassAndMethod\Step221ClassAndMethod\obj\Debug\Step221ClassAndMethod.csproj.CoreCompileInputs.cache
+C:\Users\Jina\source\repos\Step221ClassAndMethod\Step221ClassAndMethod\obj\Debug\Step221ClassAndMethod.exe
+C:\Users\Jina\source\repos\Step221ClassAndMethod\Step221ClassAndMethod\obj\Debug\Step221ClassAndMethod.pdb

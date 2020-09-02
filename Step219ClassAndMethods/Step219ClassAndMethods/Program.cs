@@ -14,19 +14,24 @@ namespace Step219ClassAndMethods
             Console.WriteLine("Please pick a whole number.");
             int input = Convert.ToInt32(Console.ReadLine());
 
-            int output = MathOperation.MathOperator(input);
+            MathOperation mathop = new MathOperation();
+            int output = mathop.MathOperator(input);
             Console.WriteLine("Your number plus 10 is: " + output);
             Console.ReadLine();
 
             Console.WriteLine("Please pick a decimal number.");
             decimal input2 = Convert.ToDecimal(Console.ReadLine());
-            int output2 = MathOperation.MathOperator(input2);
+
+            MathOperation mathop2 = new MathOperation();
+            int output2 = mathop.MathOperator(input2);
             Console.WriteLine("Your number multiplied by ten is: " + output2);
             Console.ReadLine();
 
             Console.WriteLine("Please pick a third number.");
+
+            MathOperation mathop3 = new MathOperation();
             string input3 = Console.ReadLine();
-            int output3 = Convert.ToInt32(MathOperation.MathOperator(input3));
+            int output3 = Convert.ToInt32(mathop3.MathOperator(input3));
             Console.WriteLine("Your number divided by ten has a remainder of: " + output3);
             Console.ReadLine();
         }

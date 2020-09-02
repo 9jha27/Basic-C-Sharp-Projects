@@ -14,16 +14,16 @@ namespace Step219ClassAndMethods
         }
 
         //add more integers via method overloading
-        public static int MathOperator(int num1, double num2)
+        public static int MathOperator(decimal num1)
         {
-            return Convert.ToInt32((num1 + num2) * 10);
+            return Convert.ToInt32((num1) * 10);
         }
 
         //take in a string and convert it to an integer if possible
-        public static int MathOperator(int num1, double num2, string statement)
+        public static int MathOperator(string num1)
         {
-            double converted = Convert.ToDouble(statement);
-            return Convert.ToInt32((num1 + num2 + converted) % 10);
+            double converted = Convert.ToDouble(num1);
+            return Convert.ToInt32((converted) % 10);
         }
         
     }

@@ -19,15 +19,15 @@ namespace Step219ClassAndMethods
             Console.ReadLine();
 
             Console.WriteLine("Please pick a decimal number.");
-            double input2 = Convert.ToDouble(Console.ReadLine());
-            int output2 = MathOperation.MathOperator(input, input2);
-            Console.WriteLine("Your first number plus your second number multiplied by ten is: " + output2);
+            decimal input2 = Convert.ToDecimal(Console.ReadLine());
+            int output2 = MathOperation.MathOperator(input2);
+            Console.WriteLine("Your number multiplied by ten is: " + output2);
             Console.ReadLine();
 
             Console.WriteLine("Please pick a third number.");
             string input3 = Console.ReadLine();
-            int output3 = Convert.ToInt32(MathOperation.MathOperator(input, input2, input3));
-            Console.WriteLine("Your first number plus your second number plus your third number divided by ten has a remainder of: " + output3);
+            int output3 = Convert.ToInt32(MathOperation.MathOperator(input3));
+            Console.WriteLine("Your number divided by ten has a remainder of: " + output3);
             Console.ReadLine();
         }
     }

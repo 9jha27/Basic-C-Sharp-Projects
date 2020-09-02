@@ -1,0 +1,7 @@
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\Step221ClassAndMethodsAssignment\Step221ClassAndMethodsAssignment\bin\Debug\Step221ClassAndMethodsAssignment.exe.config
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\Step221ClassAndMethodsAssignment\Step221ClassAndMethodsAssignment\bin\Debug\Step221ClassAndMethodsAssignment.exe
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\Step221ClassAndMethodsAssignment\Step221ClassAndMethodsAssignment\bin\Debug\Step221ClassAndMethodsAssignment.pdb
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\Step221ClassAndMethodsAssignment\Step221ClassAndMethodsAssignment\obj\Debug\Step221ClassAndMethodsAssignment.csprojAssemblyReference.cache
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\Step221ClassAndMethodsAssignment\Step221ClassAndMethodsAssignment\obj\Debug\Step221ClassAndMethodsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\Step221ClassAndMethodsAssignment\Step221ClassAndMethodsAssignment\obj\Debug\Step221ClassAndMethodsAssignment.exe
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\Step221ClassAndMethodsAssignment\Step221ClassAndMethodsAssignment\obj\Debug\Step221ClassAndMethodsAssignment.pdb

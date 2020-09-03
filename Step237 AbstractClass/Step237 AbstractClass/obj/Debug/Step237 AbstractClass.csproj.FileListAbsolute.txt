@@ -1,0 +1,7 @@
+C:\Users\Jina\source\repos\Step237 AbstractClass\Step237 AbstractClass\obj\Debug\Step237 AbstractClass.csprojAssemblyReference.cache
+C:\Users\Jina\source\repos\Step237 AbstractClass\Step237 AbstractClass\obj\Debug\Step237 AbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\Jina\source\repos\Step237 AbstractClass\Step237 AbstractClass\bin\Debug\Step237 AbstractClass.exe.config
+C:\Users\Jina\source\repos\Step237 AbstractClass\Step237 AbstractClass\bin\Debug\Step237 AbstractClass.exe
+C:\Users\Jina\source\repos\Step237 AbstractClass\Step237 AbstractClass\bin\Debug\Step237 AbstractClass.pdb
+C:\Users\Jina\source\repos\Step237 AbstractClass\Step237 AbstractClass\obj\Debug\Step237 AbstractClass.exe
+C:\Users\Jina\source\repos\Step237 AbstractClass\Step237 AbstractClass\obj\Debug\Step237 AbstractClass.pdb

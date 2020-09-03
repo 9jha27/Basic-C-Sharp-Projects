@@ -1,0 +1,7 @@
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\Step229ClassAndMethodsAssignment\Step229ClassAndMethodsAssignment\bin\Debug\Step229ClassAndMethodsAssignment.exe.config
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\Step229ClassAndMethodsAssignment\Step229ClassAndMethodsAssignment\bin\Debug\Step229ClassAndMethodsAssignment.exe
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\Step229ClassAndMethodsAssignment\Step229ClassAndMethodsAssignment\bin\Debug\Step229ClassAndMethodsAssignment.pdb
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\Step229ClassAndMethodsAssignment\Step229ClassAndMethodsAssignment\obj\Debug\Step229ClassAndMethodsAssignment.csprojAssemblyReference.cache
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\Step229ClassAndMethodsAssignment\Step229ClassAndMethodsAssignment\obj\Debug\Step229ClassAndMethodsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\Step229ClassAndMethodsAssignment\Step229ClassAndMethodsAssignment\obj\Debug\Step229ClassAndMethodsAssignment.exe
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\Step229ClassAndMethodsAssignment\Step229ClassAndMethodsAssignment\obj\Debug\Step229ClassAndMethodsAssignment.pdb

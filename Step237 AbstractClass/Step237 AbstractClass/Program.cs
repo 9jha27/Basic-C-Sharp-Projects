@@ -15,8 +15,9 @@ namespace Step237_AbstractClass
             Employee name = new Employee();
             name.SayName();
 
+            IQuittable quit = new Employee();
+            quit.Quit();
             Console.ReadLine();
-
         }
     }
 }

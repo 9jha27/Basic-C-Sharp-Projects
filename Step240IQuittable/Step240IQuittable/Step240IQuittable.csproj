@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B7DADBC4-CD11-4BE4-9138-6E776E8E7718}</ProjectGuid>
+    <ProjectGuid>{DDA6D523-1088-4D15-9BDD-A313B91E5663}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Step237_AbstractClass</RootNamespace>
-    <AssemblyName>Step237 AbstractClass</AssemblyName>
+    <RootNamespace>Step240IQuittable</RootNamespace>
+    <AssemblyName>Step240IQuittable</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,9 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Employee.cs" />
-    <Compile Include="IQuittable.cs" />
-    <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

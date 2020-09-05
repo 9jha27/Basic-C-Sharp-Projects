@@ -1,0 +1,6 @@
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\Step248GenericType\Step248GenericType\bin\Debug\Step248GenericType.exe.config
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\Step248GenericType\Step248GenericType\bin\Debug\Step248GenericType.exe
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\Step248GenericType\Step248GenericType\bin\Debug\Step248GenericType.pdb
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\Step248GenericType\Step248GenericType\obj\Debug\Step248GenericType.csproj.CoreCompileInputs.cache
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\Step248GenericType\Step248GenericType\obj\Debug\Step248GenericType.exe
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\Step248GenericType\Step248GenericType\obj\Debug\Step248GenericType.pdb

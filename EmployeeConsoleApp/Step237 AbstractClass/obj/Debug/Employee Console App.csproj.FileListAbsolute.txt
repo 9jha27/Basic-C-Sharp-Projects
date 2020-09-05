@@ -1,0 +1,7 @@
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\EmployeeConsoleApp\Step237 AbstractClass\obj\Debug\Employee Console App.csprojAssemblyReference.cache
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\EmployeeConsoleApp\Step237 AbstractClass\obj\Debug\Employee Console App.csproj.CoreCompileInputs.cache
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\EmployeeConsoleApp\Step237 AbstractClass\obj\Debug\Step237 AbstractClass.exe
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\EmployeeConsoleApp\Step237 AbstractClass\obj\Debug\Step237 AbstractClass.pdb
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\EmployeeConsoleApp\Step237 AbstractClass\bin\Debug\Step237 AbstractClass.exe.config
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\EmployeeConsoleApp\Step237 AbstractClass\bin\Debug\Step237 AbstractClass.exe
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\EmployeeConsoleApp\Step237 AbstractClass\bin\Debug\Step237 AbstractClass.pdb

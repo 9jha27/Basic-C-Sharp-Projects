@@ -6,8 +6,25 @@ using System.Threading.Tasks;
 
 namespace Step229ClassAndMethodsAssignment
 {
-    public class Employee : Person
+    public class Employee : Person, IQuittable
     {
         public int Id { get; set; }
+
+        public override void SayName()
+        {
+            FirstName = "Sample";
+            LastName = "Student";
+            Console.WriteLine("Name: " + FirstName + " " + LastName);
+        }
+
+        public void Quit()
+        {
+            Console.WriteLine("Press enter to quit.");
+        }
+
+        public static Employee operator== (Employee Id, Employee name)
+        {
+            return name == Id;
+        }
     }
 }

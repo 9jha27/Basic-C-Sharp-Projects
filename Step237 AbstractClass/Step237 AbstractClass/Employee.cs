@@ -8,6 +8,7 @@ namespace Step237_AbstractClass
 {
     public class Employee : Person, IQuittable //inherits from Person class
     {
+        
         public override void SayName() //SayName() method implemented inside Employee class
         {
             firstName = "Sample";
@@ -18,5 +19,15 @@ namespace Step237_AbstractClass
         {
             Console.WriteLine("Press enter to quit.");
         }
+
+        public static bool operator ==(Employee person, Employee person2)
+        {
+            return (person.Id == person2.Id) ? true : false;
+        }
+        public static bool operator !=(Employee person, Employee person2)
+        {
+            return (person.Id != person2.Id) ? true : false;
+        }
+
     }
 }

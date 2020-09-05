@@ -17,7 +17,14 @@ namespace Step237_AbstractClass
 
             IQuittable quit = new Employee();
             quit.Quit();
+
+
+            Person person = new Employee() { firstName = "Laura", lastName = "Ha", Id = 4698765 };
+            Person person2 = new Employee() { firstName = "Christine", lastName = "Ha", Id = 4699854 };
+
+            Console.WriteLine(person.Equals(person2));
             Console.ReadLine();
+
         }
     }
 }

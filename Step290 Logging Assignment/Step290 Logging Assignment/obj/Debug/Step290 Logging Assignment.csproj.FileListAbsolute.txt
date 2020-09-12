@@ -1,0 +1,7 @@
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\Step290 Logging Assignment\Step290 Logging Assignment\bin\Debug\Step290 Logging Assignment.exe.config
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\Step290 Logging Assignment\Step290 Logging Assignment\bin\Debug\Step290 Logging Assignment.exe
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\Step290 Logging Assignment\Step290 Logging Assignment\bin\Debug\Step290 Logging Assignment.pdb
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\Step290 Logging Assignment\Step290 Logging Assignment\obj\Debug\Step290 Logging Assignment.csprojAssemblyReference.cache
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\Step290 Logging Assignment\Step290 Logging Assignment\obj\Debug\Step290 Logging Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\Step290 Logging Assignment\Step290 Logging Assignment\obj\Debug\Step290 Logging Assignment.exe
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\Step290 Logging Assignment\Step290 Logging Assignment\obj\Debug\Step290 Logging Assignment.pdb

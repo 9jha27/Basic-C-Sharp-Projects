@@ -1,0 +1,7 @@
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\Step303-AdditionalFeaturesAssignment\Step303-AdditionalFeaturesAssignment\bin\Debug\Step303-AdditionalFeaturesAssignment.exe.config
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\Step303-AdditionalFeaturesAssignment\Step303-AdditionalFeaturesAssignment\bin\Debug\Step303-AdditionalFeaturesAssignment.exe
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\Step303-AdditionalFeaturesAssignment\Step303-AdditionalFeaturesAssignment\bin\Debug\Step303-AdditionalFeaturesAssignment.pdb
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\Step303-AdditionalFeaturesAssignment\Step303-AdditionalFeaturesAssignment\obj\Debug\Step303-AdditionalFeaturesAssignment.csprojAssemblyReference.cache
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\Step303-AdditionalFeaturesAssignment\Step303-AdditionalFeaturesAssignment\obj\Debug\Step303-AdditionalFeaturesAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\Step303-AdditionalFeaturesAssignment\Step303-AdditionalFeaturesAssignment\obj\Debug\Step303-AdditionalFeaturesAssignment.exe
+C:\Users\Jina\Desktop\Basic-C-Sharp-Projects\Step303-AdditionalFeaturesAssignment\Step303-AdditionalFeaturesAssignment\obj\Debug\Step303-AdditionalFeaturesAssignment.pdb

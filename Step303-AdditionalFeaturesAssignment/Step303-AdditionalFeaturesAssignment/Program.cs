@@ -19,7 +19,7 @@ namespace Step303_AdditionalFeaturesAssignment
             var studentSchedule = new Schedule(fName, daysOfWeek[6]);
             var studentSchedule2 = new Schedule(fName);
 
-            Console.WriteLine(studentSchedule + "\n" + studentSchedule2);
+            //Console.WriteLine(studentSchedule + "\n" + studentSchedule2);
             
         }
 
